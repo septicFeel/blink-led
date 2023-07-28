@@ -1,0 +1,2023 @@
+[0;33m--- idf_monitor on /dev/ttyUSB0 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[1;31mNone[0m
+[0;33mWaiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[1;31mNone[0m
+[0;33mWaiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[1;31mNone[0m
+[0;33mWaiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081030: call_start_cpu1 at /home/bvsirghe/esp/esp-idf/components/esp_system/port/cpu_start.c:170
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400d6dcb: task_wdt_timeout_handling at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400d6f52: task_wdt_isr at /home/bvsirghe/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f45: _xt_lowint1 at /home/bvsirghe/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x400d547e: app_main at /home/bvsirghe/esp-idf/projects/blink-led/main/blink-led.c:11
+[0m
+[0;33m0x400e2fc8: main_task at /home/bvsirghe/esp/esp-idf/components/freertos/app_startup.c:217 (discriminator 13)
+[0m
+[0;33m0x40087bad: vPortTaskWrapper at /home/bvsirghe/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+E
